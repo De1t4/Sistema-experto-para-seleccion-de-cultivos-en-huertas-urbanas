@@ -1,0 +1,31 @@
+cultivo,horas_de_sol,Espacio_necesario_m_2,profundidad_mínima_de_recipiente_cm,riego_requerido,Frecuencia_mantenimiento_recomendada,verano,otoño,invierno,primavera,sensible_a_heladas,requiere_almácigo_protegido,Días_cosecha,fuente,Notas de manejo
+Acelga,3 hs,0.09,25 cm,Moderado,1-2 veces por semana,si,si,si,si,no,no,90-130 (cosecha continua: 2-3 hojas por planta cada 20 días en primavera-verano o 45 días en otoño-invierno),"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Raleo a 30 cm entre plantas cuando alcanzan 15 cm de altura. Eliminar malezas y remover la tierra periódicamente.
+Apio,3 hs,0.06,25 cm,Frecuente,1-2 veces por semana,no,si,no,si,no,no,90-100 (siembra primavera) / 70-80 (siembra otoño),"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Almácigo set-nov (transplante dic-mar) o almácigo marzo (transplante mayo)
+Lechuga,3 hs,0.04,25 cm,Frecuente,1-2 veces por semana,si,si,si,si,no,no,90 (cosecha en primavera) / 120 (cosecha en otoño) según Doc. A; 50-85 según variedad en Doc. B,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616","Raleo cuando la planta tiene 2-10 cm de alto, dejando 20 cm entre plantas. También puede sembrarse en almácigo y trasplantar."
+Perejil,3 hs,0.01,25 cm,Moderado,Cada 7-15 días,no,si,no,si,no,no,75 (primer corte) / 100 (segundo corte),"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616","Siembra directa en línea similar a la zanahoria. Si se trasplanta, distancias no mayores a 20 cm entre plantas. El mantenimiento puede ser quincenal."
+Rabanito,5 hs,0.02,25-40 cm,Moderado,Cada 7-15 días,si,si,si,si,no,no,25-30,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa a chorrillo(semillas distribuidas en un surco continuas). El mantenimiento puede ser quincenal.
+Zanahoria,5 hs,0.02,25-40 cm,Moderado,Cada 7-15 días,si,si,si,si,no,no,110 (verano-otoño) / 150 (de todo el año),"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa a chorrillo(semillas distribuidas en un surco continuas). El mantenimiento puede ser quincenal.
+Albahaca,3 hs,0.04,25 cm,Frecuente,1-2 veces por semana,no,no,no,si,si,no,90-100,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616","Almácigo septiembre, transplante octubre-noviembre"
+Calabaza,5 hs,3.50,40 cm,Frecuente,1-2 veces por semana,no,no,no,si,si,no,120-150,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa a golpes. Sensible a heladas
+Maíz dulce,5 hs,0.21,40 cm,Moderado,Cada 7-15 días,no,no,no,si,si,no,100-130,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa a golpes. Sensible al frío. El mantenimiento puede ser quincenal.
+Melón,5 hs,1.08,40 cm,Frecuente,1-2 veces por semana,no,no,no,si,si,no,100,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa a golpes. Mes recomendado Octubre. Sensible al frío.
+Pepino,5 hs,0.84,40 cm,Frecuente,1-2 veces por semana,no,no,no,si,si,no,50-70,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa a golpes. Mes recomendado Octubre. Sensible al frío.
+Tomate,5 hs,0.20,40 cm,Moderado,2-3 veces por semana o más,no,no,si,no,si,si,80-100,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616","Es sensible al frío, mantener almácigo protegido del frío, no directamente afuera. Al alcanzar 20 cm se arrima tierra y se coloca tutor. Se podan los brotes laterales dejando solo el brote superior (mayor sanidad y fruto más temprano)."
+Zapallito,5 hs,0.35,40 cm,Frecuente,1-2 veces por semana,si,no,no,si,si,no,70-80,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Directa a golpes octubre-enero
+Espinaca,3 hs,0.03,25 cm,Frecuente,1-2 veces por semana,no,si,no,no,no,no,45-60,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Siembra directa
+Haba,5 hs,0.21,40 cm,Bajo,Cada 7-15 días,no,si,si,no,no,no,150-180,"INTA_ProHuerta_Huertas_familiares_urbanas.pdf-https://www.argentina.gob.ar/node/354787
+-argentina.gob.ar/node/347616",Directa a golpes abril-junio. El mantenimiento puede ser quincenal.
