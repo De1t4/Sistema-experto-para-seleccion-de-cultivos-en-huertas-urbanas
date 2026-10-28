@@ -12,11 +12,11 @@ Sistema experto basado en reglas diseñado para orientar a personas en entornos 
 | **Carrera**               | Licenciatura en Ciencia de Datos                                                       |
 | **Materia**               | Análisis de Datos II: Sistemas Expertos y Redes de Conocimiento                        |
 | **Trabajo**               | Trabajo Práctico Final - Sistema Experto para Selección de Cultivos en Huertas Urbanas |
-| **Profesor**              | [Nombre del Profesor / Equipo Docente]                                                 |
+| **Profesor**              | Agustín Asuaje                                                 |
 | **Cuatrimestre**          | 2do Cuatrimestre 2026 (AD2_2026.2)                                                     |
 | **Grupo Cliente**         | E                                                                                      |
 | **Grupo Proveedor**       | F                                                                                      |
-| **Fecha de Presentación** | [DD/MM/AAAA]                                                                           |
+| **Fecha de Presentación** | [04/11/2026]                                                                           |
 
 ---
 
@@ -26,9 +26,9 @@ Sistema experto basado en reglas diseñado para orientar a personas en entornos 
 | :---------------------- |
 | Mauricio Chambi         |
 | Daniel García           |
-| Francisco Possamai      |
-| Gabriela Pari Vaca      |
 | Gabriela Martinez Soliz |
+| Gabriela Pari Vaca      |
+| Francisco Possamai      |
 
 ---
 
