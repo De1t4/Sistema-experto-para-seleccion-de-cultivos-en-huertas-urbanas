@@ -16,7 +16,7 @@ Sistema experto basado en reglas diseñado para orientar a personas en entornos 
 | **Cuatrimestre**          | 2do Cuatrimestre 2026 (AD2_2026.2)                                                     |
 | **Grupo Cliente**         | E                                                                                      |
 | **Grupo Proveedor**       | F                                                                                      |
-| **Fecha de Presentación** | [04/11/2026]                                                                           |
+| **Fecha de Presentación** | [05/11/2026]                                                                           |
 
 ---
 
