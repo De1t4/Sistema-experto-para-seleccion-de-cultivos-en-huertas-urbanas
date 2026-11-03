@@ -87,8 +87,7 @@ que menciona el PDF en la sección 0. Las 9.000 coinciden exactamente
 .\.venv\Scripts\python -m pytest -v --run-slow
 ```
 
-## Para la defensa
-
+## Consideraciones
 - Las tres `@Rule` R1.1 solo discretizan la luz para mostrarla en la UI:
   son decorativas y no participan de ningún descarte.
 - R4.3 (`salience=-10`) y R4.4 (`salience=-20`) razonan por **ausencia**
