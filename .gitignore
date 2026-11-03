@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 TP_cultivos/__pycache__/
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
