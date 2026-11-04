@@ -139,17 +139,28 @@ CSS = """
         min-width: 0;
     }
     .cultivo-icon {
-        flex-shrink: 0;
         width: 44px;
         height: 44px;
+        min-width: 44px;
+        min-height: 44px;
+        background-color: #182420; /* Fondo verde oscuro de la tarjeta */
+        border-radius: 8px;
         display: flex;
         align-items: center;
         justify-content: center;
-        background: rgba(74, 222, 128, 0.08);
-        border: 1px solid rgba(74, 222, 128, 0.18);
-        border-radius: 10px;
+        overflow: hidden;
+        padding: 3px; /* Espaciado interno para que el PNG no toque el borde redondeado */
+        flex-shrink: 0;
     }
-    .cultivo-icon svg { width: 28px; height: 28px; display: block; }
+
+    .cultivo-icon img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+        display: block;
+    }
+        .cultivo-icon svg { width: 28px; height: 28px; display: block; }
+  
 
     /* ---------- Empty state illustration ---------- */
     .placeholder-illus {
@@ -368,14 +379,13 @@ CSS = """
     }
     .descarte-row:last-child { border-bottom: none; }
     .descarte-icon {
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         display: flex;
         align-items: center;
         justify-content: center;
-        background: rgba(148, 163, 154, 0.06);
-        border-radius: 7px;
-        opacity: 0.85;
+        overflow: hidden;
+        flex-shrink: 0;
     }
     .descarte-icon svg { width: 20px; height: 20px; display: block; }
     .descarte-nombre {
